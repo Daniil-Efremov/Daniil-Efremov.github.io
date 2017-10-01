@@ -1,0 +1,97 @@
+
+.fp{
+	background-color: #01b3b3;
+	padding: 5px ;
+	padding-left: 6px;
+	width: 149px;
+	color:#fff;
+}
+.par{
+	font-size: 11px;
+	font-weight: 900;
+	margin-left: 30px;
+	margin-top: -3.2px;
+}
+
+p{
+	
+	font-family: Arial ,  sans-serif;
+	
+}
+
+#email{
+	margin-top: 30.5px;
+}
+
+span{
+	color:#01b3b3;
+}
+
+.in{
+	width: 264px;
+	margin-left: 28px;
+	border:1px solid #cfdede;
+	background-image: url(../img/bg.png);
+	height: 31px;
+	
+}
+
+
+
+#em{
+	margin-top: 11px;
+	padding: 5.5px;
+	font-size: 12px;
+	padding-left: 12.5px;
+	padding-top: 7px;
+	font-style: italic;
+}
+
+#c-pass{
+	margin-top: 15px;
+}
+
+#c-pas{
+	margin-top: 12px;
+	height: 32px;
+}
+
+#conf-pass{
+	margin-top: 17px;
+}
+
+#conf-pas{
+	margin-top: 11px;
+	height: 32px;
+}
+
+#register{
+	width: 262px;
+	margin-top: 35px;
+	margin-left: 29px;
+	height: 45px;
+	background-color: #01b9b9;
+	text-transform: uppercase;
+	color:#fff;
+	border:none;
+	border-radius:3px ;
+
+}
+
+.cont{
+	position: relative;
+	width: 570px;
+	height: 570px;
+	background-image: url(../img/bg.png);
+}
+
+.form{
+	position:absolute;
+	width: 320px;
+	height: 370px;
+	background-color: #fff;
+	left: 125px;
+	top:100px;
+
+}
+
