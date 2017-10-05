@@ -8,3 +8,4 @@
 [lesson14m5](https://daniil-efremov.github.io/HW-git/lesson14m5/ "Fonts")
 [lesson15m5](https://daniil-efremov.github.io/HW-git/lesson15m5/ "Hover")
 [lesson2m5practice](https://daniil-efremov.github.io/HW-git/lesson2m5practice/source/ "FirstScreen")
+[lesson3m5practice](https://daniil-efremov.github.io/HW-git/lesson3m5practice/source/ "Adaptive^")
