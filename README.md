@@ -9,4 +9,4 @@
 [lesson15m5](https://daniil-efremov.github.io/HW-git/lesson15m5/ "Hover")
 [lesson2m5practice](https://daniil-efremov.github.io/HW-git/lesson2m5practice/source/ "FirstScreen")
 [lesson3m5practice](https://daniil-efremov.github.io/HW-git/lesson3m5practice/source/ "Adaptive^")
-[lesson16m5](https://daniil-efremov.github.io/HW-git/lesson16m5/ "Slider")
+[lesson16m5](https://daniil-efremov.github.io/HW-git/lesson16m5/source/ "Slider")
