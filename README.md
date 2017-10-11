@@ -14,3 +14,4 @@
 [lesson17m5](https://daniil-efremov.github.io/HW-git/lesson17m5/source/ "Modal")
 [lesson5m5practice](https://daniil-efremov.github.io/HW-git/lesson5m5practice/source/ "ModalWindow")
 [lesson18m5](https://daniil-efremov.github.io/HW-git/lesson18m5/ "TabColapse")
+[lesson6m5practice](https://daniil-efremov.github.io/HW-git/lesson6m5practice/source/ "Prices")
