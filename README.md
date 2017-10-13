@@ -16,3 +16,4 @@
 [lesson18m5](https://daniil-efremov.github.io/HW-git/lesson18m5v2/ "TabColapse")
 [lesson6m5practice](https://daniil-efremov.github.io/HW-git/lesson6m5practice/source/ "Prices")
 [lesson7m5practice](https://daniil-efremov.github.io/HW-git/lesson7m5practice/source/ "ToManySliders")
+[lesson19m5](https://daniil-efremov.github.io/HW-git/lesson19m5/source/ "Paralax")
