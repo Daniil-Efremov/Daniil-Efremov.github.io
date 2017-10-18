@@ -18,4 +18,4 @@
 [lesson7m5practice](https://daniil-efremov.github.io/HW-git/lesson7m5practice/source/ "ToManySliders")
 [lesson19m5](https://daniil-efremov.github.io/HW-git/lesson19m5/source/ "Paralax")
 [lesson10m6practice](https://daniil-efremov.github.io/HW-git/lesson10m6practice/source/ "SoManyWork")
-[lesson21m6](https://daniil-efremov.github.io/HW-git/lesson21m6/ "Paralax")
+[lesson21m6](https://daniil-efremov.github.io/HW-git/lesson_21m6/ "Paralax")
