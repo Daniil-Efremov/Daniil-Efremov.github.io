@@ -1,23 +1,5 @@
 # Ефремов Даниил
 
 [lesson17](https://daniil-efremov.github.io/HW-git/lesson17/source/ "Макет на HTML/CSS")  
-[lesson18](https://daniil-efremov.github.io/HW-git/lesson18/source/ "Тест BOOTSTRAP")  
-[lesson19](https://daniil-efremov.github.io/HW-git/lesson19/source/ "Макет на HTML/CSS/BOOTSTRAP")
-[lesson13m5](https://daniil-efremov.github.io/HW-git/lesson23/source/ "PixelPerfect")
-[lesson1m5practice](https://daniil-efremov.github.io/HW-git/lesson24/source/ "Header")
-[lesson14m5](https://daniil-efremov.github.io/HW-git/lesson14m5/ "Fonts")
-[lesson15m5](https://daniil-efremov.github.io/HW-git/lesson15m5/ "Hover")
-[lesson2m5practice](https://daniil-efremov.github.io/HW-git/lesson2m5practice/source/ "FirstScreen")
-[lesson3m5practice](https://daniil-efremov.github.io/HW-git/lesson3m5practice/source/ "Adaptive^")
-[lesson16m5](https://daniil-efremov.github.io/HW-git/lesson16m5/source/ "Slider")
-[lesson4m5practice](https://daniil-efremov.github.io/HW-git/lesson4m5practice/source/ "SlickSlider")
-[lesson17m5](https://daniil-efremov.github.io/HW-git/lesson17m5/source/ "Modal")
-[lesson5m5practice](https://daniil-efremov.github.io/HW-git/lesson5m5practice/source/ "ModalWindow")
-[lesson18m5](https://daniil-efremov.github.io/HW-git/lesson18m5v2/ "TabColapse")
-[lesson6m5practice](https://daniil-efremov.github.io/HW-git/lesson6m5practice/source/ "Prices")
-[lesson7m5practice](https://daniil-efremov.github.io/HW-git/lesson7m5practice/source/ "ToManySliders")
-[lesson19m5](https://daniil-efremov.github.io/HW-git/lesson19m5/source/ "Paralax")
-[lesson10m6practice](https://daniil-efremov.github.io/HW-git/lesson10m6practice/source/ "SoManyWork")
-[lesson21m6](https://daniil-efremov.github.io/HW-git/lesson_21m6/ "Paralax")
-[lesson13m7practice](https://daniil-efremov.github.io/HW-git/lesson13m7practice/source/ "SoManyWork")
+
 
