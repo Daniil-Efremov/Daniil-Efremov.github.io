@@ -1,5 +1,5 @@
 # Ефремов Даниил
 
-[lesson17](https://daniil-efremov.github.io/HW-git/lesson17/source/ "Макет на HTML/CSS")  
+[Задание 3](https://github.com/Daniil-Efremov/Daniil-Efremov.github.io/Задание 3 Ефремов Д.Д/index.html) "Сест API  с шаблоном")  
 
 
